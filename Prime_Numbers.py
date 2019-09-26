@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-#prime numbers presented by hkumas
+# prime numbers presented by hkumas
 
 input_list = []
 
